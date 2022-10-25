@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "nayasa-jewel": {
+      "hosting": {
+        "hfhe": [
+          "nayasa-jewel"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "nayasa-jewel"
+  }
+}
